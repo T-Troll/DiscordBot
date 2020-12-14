@@ -5,7 +5,7 @@ DELAY=30
 HOST="10.0.7.7"
 MSGOFF="Host is DOWN!"
 MSGON="Host is UP!"
-DURL="https://discordapp.com/api/webhooks/761453069996261376/N4aYzBIRhhp4khUxeQycLPRw7VIeV3B9J9pkXEqts35oPWyWskm2SzVx7QZK5jQpga1O"
+DURL="https://discordapp.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 
 while [ true ]; do
 
