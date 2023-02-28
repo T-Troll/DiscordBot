@@ -1,5 +1,5 @@
 #!/bin/sh
-DURL="https://discord.com/api/webhooks/1051492081752866996/b6buZtbagichY1gyy3l5Uja01OD4syyN3qU-7tyLGO8ql3kwU2eXnifn-v77W-CuX4u2"
+DURL="https://discord.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 FPATH="/mnt/sda2/Camera"
 STATE=1
 COUNT=1

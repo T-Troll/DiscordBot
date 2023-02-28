@@ -4,7 +4,7 @@ STATE=1
 DELAY=30
 HOST=$1
 NAME=$2
-DURL="https://discordapp.com/api/webhooks/761453069996261376/N4aYzBIRhhp4khUxeQycLPRw7VIeV3B9J9pkXEqts35oPWyWskm2SzVx7QZK5jQpga1O"
+DURL="https://discordapp.com/api/webhooks/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 logger -t CHECKBOT: "Started for $NAME at $HOST"
 while [ true ]; do
     ping -c5 $HOST > /dev/null

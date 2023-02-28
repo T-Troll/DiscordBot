@@ -1,6 +1,6 @@
 #!/bin/sh
 echo Running camera script...
-DURL="https://discord.com/api/webhooks/1051492081752866996/b6buZtbagichY1gyy3l5Uja01OD4syyN3qU-7tyLGO8ql3kwU2eXnifn-v77W-CuX4u2"
+DURL="https://discord.com/api/xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx"
 FPATH=$1
 logger -t CAMREC "Starting recording for $FPATH"
 echo Path is $FPATH
