@@ -1,5 +1,5 @@
 # DiscordBot
-Simple bot for host state monitoring and post state changes into Discord channel.
+Simple bot for host state monitoring and post state changes into Discord channel.  
 Support for Hanet Smart camera backend added into `/camera` folder
 
 ## How to use
